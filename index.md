@@ -2,14 +2,14 @@
 
 A compact, results-oriented plan to get to *sufficiency* for Meta/Google coding rounds.
 
-[https://neatleet.github.io/](https://neatleet.github.io/)
+[https://neatleet.github.com](https://github.com/takemetotherainbow/prep/blob/main/lc.md#3-binary-search-classic--on-answer)
 
 ## Contents
 
-- **Chapter 1 ****—**** Plan**
-- **Chapter 2 ****—**** Patterns**
-- **Chapter 3 ****—**** Invariants**
-- **Chapter 4 ****—**** Practice**
+- Chapter 1 — Plan
+- Chapter 2 — Patterns
+- Chapter 3 — Invariants
+- Chapter 4 — Practice
 
 ---
 
