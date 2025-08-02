@@ -2,7 +2,7 @@
 
 A compact, results-oriented plan to get to *sufficiency* for Meta/Google coding rounds.
 
-[https://neatleet.github.com](https://github.com/takemetotherainbow/prep/blob/main/lc.md#3-binary-search-classic--on-answer)
+[https://neatleet.github.com](https://neatleet.github.com)
 
 ## Contents
 
