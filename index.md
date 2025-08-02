@@ -2,7 +2,7 @@
 
 A compact, results-oriented plan to get to *sufficiency* for Meta/Google coding rounds.
 
-[https://neatleet.github.com](https://neatleet.github.com)
+[https://neatleet.github.io/](https://neatleet.github.io/)
 
 ## Contents
 
